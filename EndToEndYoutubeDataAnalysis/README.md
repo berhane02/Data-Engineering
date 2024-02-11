@@ -9,5 +9,5 @@
 ## Service we will be using
 
 ## Architecture Diagram
-<img src="EndToEndData.png">
+<img src="aws.drawio.png">
 
