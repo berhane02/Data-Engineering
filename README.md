@@ -48,10 +48,10 @@ The data set is splite base on region and analysis is done base on region select
 6. AWS Athena: Amazon Athena is a serverless, interactive analytics service built on open-source frameworks, supporting open-table and file formats. Athena provides a simplified, flexible way to analyze petabytes of data where it lives.
 
 ## Architecture Diagram
-<img src="aws.drawio.png">
+<img src="EndToEndYoutubeDataAnalysis/aws.drawio.png">
 
 ## Sample GluETL Diagram
-<img src="GlueETL.png">
+<img src="EndToEndYoutubeDataAnalysis/GlueETL.png">
 
 ## QuickSight Dashboard
-<img src="youtubeData.png">
+<img src="EndToEndYoutubeDataAnalysis/youtubeData.png">
